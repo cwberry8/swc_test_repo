@@ -1,8 +1,4 @@
 this is a susanna file
 
-<<<<<<< HEAD
 and it's just okay
-=======
 and it's the best
-
->>>>>>> bestbranch
