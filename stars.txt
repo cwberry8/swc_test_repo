@@ -2,3 +2,4 @@ Hercules
 Apollo
 Sun
 Euclid
+Pollux
