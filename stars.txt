@@ -1,3 +1,4 @@
 Hercules
 Apollo
 Sun
+Euclid
